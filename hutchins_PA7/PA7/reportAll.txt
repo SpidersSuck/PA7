@@ -1,0 +1,40 @@
+Absence Report for: "Smith, John"
+Days Absent: 1
+Date of Absense: 11-16-2021
+-------------------------------------------
+Absence Report for: "Beck, Sara"
+Days Absent: 1
+Date of Absense: 11-16-2021
+-------------------------------------------
+Absence Report for: "Leinart, Timothy"
+Days Absent: 0
+Date of Absense:  
+-------------------------------------------
+Absence Report for: "Art, Bruce"
+Days Absent: 0
+Date of Absense:  
+-------------------------------------------
+Absence Report for: "James, Hannah"
+Days Absent: 0
+Date of Absense:  
+-------------------------------------------
+Absence Report for: "Payton, Ella"
+Days Absent: 0
+Date of Absense:  
+-------------------------------------------
+Absence Report for: "Sam, Theo"
+Days Absent: 0
+Date of Absense:  
+-------------------------------------------
+Absence Report for: "Smith, Jane"
+Days Absent: 0
+Date of Absense:  
+-------------------------------------------
+Absence Report for: "Willis, Bruce"
+Days Absent: 0
+Date of Absense:  
+-------------------------------------------
+Absence Report for: "Mort, Kris"
+Days Absent: 0
+Date of Absense:  
+-------------------------------------------
